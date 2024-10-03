@@ -24,5 +24,6 @@ import numpy as np
 * branches: Inclui uma branch dedicada para comparar valores utilizando diferentes tipos de gráficos, incluindo gráficos de barra e gráficos de linha.
 Exemplo de uma branch
 
+
 ![grafico_vendas](https://github.com/user-attachments/assets/abdac7bc-217e-4e1f-a83d-8988aa8e158f)
 
